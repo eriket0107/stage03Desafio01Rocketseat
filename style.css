@@ -60,8 +60,9 @@ form {
   background: #FFFFFF;
   width: 736px;
   border: none;
-  border-radius: 20px 0 0;
+  border-radius: 20px 20px 0 0;
   padding: 34px 64px;
+  
 }
 
 fieldset {
@@ -167,6 +168,8 @@ footer{
   flex-direction: row;
   justify-content: center;
   align-items: center;
+
+  margin-bottom: 25px;
 }
 footer button{
   
